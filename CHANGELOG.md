@@ -2,6 +2,13 @@
 
 The full story, with pictures, is on the [devlog](https://originforgeconnect.com/blog/).
 
+## 17 November 2026 (afternoon)
+- **Paul's house on the hill:** a hand-painted hillside behind the fountain, with a boulder wall, stone steps and a grassy slope down to the village.
+- **A fresh village square:** new painted cobbles and grass all round the fountain.
+- **Beds you can sleep in:** click your bed to climb in. Click away to get up, yawn and stretch.
+- **"My profile & bio"** in the Your Account menu, so it's easy to edit your bio.
+- **Fixed:** bags, quest progress, DMs and bios weren't saving to your account for a while. They are again.
+- 
 ## 17 November 2026
 - **Advertise board:** list up to 5 products for £1 a month, with picture cards like a link preview on X. Featured on the home page and on empty billboards in the game.
 - **The Pond Singers:** six monsters round the village pond, each singing its own note. Find their song and the whole pond sings along.
