@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Player guide
+    url: https://originforgeconnect.com/guide/
+    about: How to do things in the game.
+  - name: Email us
+    url: mailto:contact@originforgestudio.co.uk
+    about: Account or payment questions (please don't post those publicly).
