@@ -1,0 +1,39 @@
+name: Bug report
+description: Something in the game isn't working right
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Tell us what went wrong, and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we see it happen?
+      description: The steps you took, and where you were in the game.
+      placeholder: "1. Walked to the village pond\n2. Clicked Bubbloo\n3. ..."
+  - type: dropdown
+    id: device
+    attributes:
+      label: What were you playing on?
+      options:
+        - Computer
+        - Phone
+        - Tablet
+  - type: input
+    id: browser
+    attributes:
+      label: Which browser?
+      placeholder: Chrome, Safari, Firefox, Edge...
+  - type: input
+    id: name
+    attributes:
+      label: Your player name (optional)
+  - type: textarea
+    id: pics
+    attributes:
+      label: Screenshots (optional)
+      description: Drag and drop a picture here if you have one.
